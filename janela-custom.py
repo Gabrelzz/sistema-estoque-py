@@ -1,9 +1,9 @@
-import customtkinter
+'''import customtkinter
 
 customtkinter.set_appearance_mode("dark")
 customtkinter.set_default_color_theme("green")
 
-janela = customtkinter.CTk()
+#janela = customtkinter.CTk()
 janela.geometry("600x400")
 janela.title("App Estoque")
 janela.minsize(width =600, height =400)
